@@ -1,0 +1,40 @@
+{
+  "consumer_unit": [
+    {
+      "nickname": "Eli",
+      "address": "Carlos Willy ",
+      "brand": "Json",
+      "model": "Server",
+      "active": true,
+      "id": 1
+    },
+    {
+      "nickname": "Luz",
+      "address": "Joinville",
+      "brand": "React",
+      "model": "Js",
+      "active": false,
+      "id": 2
+    }
+  ],
+  "monthly_consumption": [
+    {
+      "unit_id": "1",
+      "kw": "100",
+      "date": "2022-02-07T01:07:45.468Z",
+      "id": 1
+    },
+    {
+      "unit_id": "2",
+      "kw": "40",
+      "date": "2022-01-02T01:10:31.000Z",
+      "id": 2
+    },
+    {
+      "unit_id": "2",
+      "kw": "90",
+      "date": "2022-02-07T01:10:52.197Z",
+      "id": 3
+    }
+  ]
+}
